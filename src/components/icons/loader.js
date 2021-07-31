@@ -27,7 +27,7 @@ const IconLoader = () => (
       stroke-width="10"
     />
   </g>
-</svg>;
+</svg>
 
 );
 
