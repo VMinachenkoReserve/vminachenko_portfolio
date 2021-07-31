@@ -12,7 +12,7 @@ const IconLogo = () => (
       transform="translate(293 324)"
       fill="#63ffda"
       font-size="200"
-      font-family="SegoeUI-Semibold, Segoe UI"
+      font-family="Segoe UI"
       font-weight="600"
     >
       <tspan x="12" y="-5">
