@@ -139,7 +139,7 @@ const About = () => {
               Hello! My name is Viacheslav, but you can call me Slava. I'm an entry-level data analyst with a goal-driven creative mindset and passion for learning and innovating. 
 									During my studies, I focused on Logistics and Supply Chain Analytics to master an ability to 
 									translate business requirements into technical solutions in the supply chain systems. 
-									After the academic projects related to data mining and machine learning, I believe that the effective utilization of these technologies
+									After the academic courses and projects related to data mining and machine learning, I believe that the effective utilization of these technologies
 									is one of the most important features to eliminate information asymmetry and build highly effective, transparent, and sustainable relationships between all parties involved, from producers to customers.  
 									Considering the recent events and consequent boom in the eCommerce industry, I am seriously motivated to obtain needed skills and start my professional career in the eCommerce and Digital Supply Chain fields. 
             </p>
