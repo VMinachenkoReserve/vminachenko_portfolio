@@ -267,7 +267,10 @@ const Menu = () => {
             )}
 
             <a href="/resume.pdf" className="resume-link">
-              Resume
+              Resume ENG
+            </a>
+            <a href="/resume-ru.pdf" className="resume-link">
+              Resume RUS
             </a>
           </nav>
         </StyledSidebar> 
