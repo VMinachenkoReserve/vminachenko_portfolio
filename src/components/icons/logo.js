@@ -15,7 +15,7 @@ const IconLogo = () => (
       font-family="SegoeUI-Semibold, Segoe UI"
       font-weight="600"
     >
-      <tspan x="12" y="-1">
+      <tspan x="12" y="-5">
         V
       </tspan>
     </text>
