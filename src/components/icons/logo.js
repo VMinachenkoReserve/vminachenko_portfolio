@@ -3,7 +3,9 @@ import React from 'react';
 const IconLogo = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 84 96">
     <title>Logo</title>
-    <g transform="translate(-8.000000, -2.000000)">
+    <g transform="translate(-8.000000, -2.000000)">_</g>
+    <text x="30" y="65" fill="currentColor" font-size="45px" font-family="Consolas">V</text> =$0
+   </svg>   
       <g transform="translate(11.000000, 5.000000)">
         <polygon
           id="Shape"
@@ -15,9 +17,6 @@ const IconLogo = () => (
         />
       </g>
     </g>
-    <text x="30" y="65" fill="currentColor" fontSize="45px" fontFamily="Consolas">
-      V
-    </text>
   </svg>
 );
 
