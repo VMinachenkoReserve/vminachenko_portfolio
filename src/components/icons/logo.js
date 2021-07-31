@@ -27,7 +27,7 @@ const IconLogo = () => (
       stroke-width="10"
     />
   </g>
-</svg>;
-)  
+</svg>
+);  
 
 export default IconLogo;
