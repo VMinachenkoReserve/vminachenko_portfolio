@@ -5,6 +5,7 @@ const IconLogo = () => (
     <title>Logo</title>
     <g transform="translate(-8.000000, -2.000000)">_</g>
     <text x="30" y="65" fill="currentColor" font-size="45px" font-family="Consolas">V</text>
+    </g>
    </svg>   
       <g transform="translate(11.000000, 5.000000)">
         <polygon
@@ -16,7 +17,6 @@ const IconLogo = () => (
           points="39 0 0 22 0 67 39 90 78 68 78 23"
         />
       </g>
-    </g>
 );
 
 export default IconLogo;
