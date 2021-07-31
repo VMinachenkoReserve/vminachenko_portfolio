@@ -8,7 +8,7 @@ tech:
   - • Tableau
 showInProjects: true
 ---
-* Preprocessed and combined data in Pandas
+* Preprocessed and combined data with Pandas
 * Analyzed and classified reviews in RapidMiner
 * Applied clustering methods and identified the groups of service problems 
 * Visualized locations with unsatisfying performance on a map in Tableau
