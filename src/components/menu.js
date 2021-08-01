@@ -267,10 +267,10 @@ const Menu = () => {
             )}
 
             <a href="/resume.pdf" className="resume-link">
-              Resume ENG
+              Resume
             </a>
-            <a href="/resume-ru.pdf" className="resume-link">
-              Resume RUS
+            <a href="https://vminachenko-ru.netlify.app/" className="resume-link">
+              Русский язык
             </a>
           </nav>
         </StyledSidebar> 
