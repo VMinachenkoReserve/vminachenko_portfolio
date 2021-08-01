@@ -174,12 +174,12 @@ const Nav = ({ isHome }) => {
 
   const ResumeLink = (
     <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-      Resume ENG
+      Resume
     </a>
   );
   const ResumeLinkRu = (
-    <a className="resume-button" href="/resume-ru.pdf" target="_blank" rel="noopener noreferrer">
-      Resume RUS
+    <a className="resume-button" href="https://vminachenko-ru.netlify.app/" target="_blank" rel="noopener noreferrer">
+      Русский язык
     </a>
   );
 
