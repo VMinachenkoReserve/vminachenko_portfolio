@@ -1,6 +1,6 @@
 ---
 date: '2020-03-18'
-title: 'Database for residential property management'
+title: 'Database for Residential Property Management'
 github: ''
 external: ''
 ios: ''
