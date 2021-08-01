@@ -1,7 +1,7 @@
 ---
 date: '2020-10-09'
 title: 'Logistics Processor'
-company: 'Nordstrom'
+company: 'Nordstrom, Inc'
 location: 'Portland, OR'
 range: 'October - July 2021'
 url: 'https://www.nordstrom.com/'
