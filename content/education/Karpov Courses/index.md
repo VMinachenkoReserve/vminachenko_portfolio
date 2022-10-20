@@ -1,7 +1,7 @@
 ---
-date: '4'
+date: '1'
 title: 'Karpov Courses'
-cover: './download.pdf'
+cover: './download.jpg'
 tech:
   - 
   - 
