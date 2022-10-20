@@ -4,7 +4,7 @@ title: 'Marketing Analyst'
 company: 'AsstrA Associated Traffic AG'
 location: 'St. Petersburg, Russia'
 range: 'November 2021 - Present'
-url: 'https://asstra.ru/'
+url: 'https://asstra.com/'
 ---
 
 - Participate in the development and preparation of analytical reports for improvement of internal business processes
