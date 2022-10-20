@@ -140,8 +140,7 @@ const About = () => {
 									During my studies, I focused on Logistics and Supply Chain Analytics to master an ability to 
 									translate business requirements into technical solutions in the supply chain systems. 
 									After the academic courses and projects related to data mining and machine learning, I believe that the effective utilization of these technologies
-									is one of the most important features to eliminate information asymmetry and build highly effective, transparent, and sustainable relationships between all parties involved, from producers to customers.  
-									Considering the recent events and consequent boom in the eCommerce industry, I am seriously motivated to obtain needed skills and start my professional career in the eCommerce and Digital Supply Chain fields. 
+									is one of the most important features to eliminate information asymmetry and build highly effective, transparent, and sustainable relationships between all parties involved, from producers to customers.   
             </p>
             <p>Here are a few technologies I've been working with:</p>
           </div>
