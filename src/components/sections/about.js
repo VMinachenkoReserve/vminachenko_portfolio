@@ -136,7 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Viacheslav, but you can call me Slava. I'm an entry-level data analyst with a goal-driven creative mindset and passion for learning and innovating. 
+              Hello! My name is Viacheslav, but you can call me Slava. I'm a data analyst with a goal-driven creative mindset and passion for learning and innovating. 
 									During my studies, I focused on Logistics and Supply Chain Analytics to master an ability to 
 									translate business requirements into technical solutions in the supply chain systems. 
 									After the academic courses and projects related to data mining and machine learning, I believe that the effective utilization of these technologies
