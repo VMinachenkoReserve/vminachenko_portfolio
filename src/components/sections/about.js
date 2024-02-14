@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Excel (XLStat, @Risk)', 'SQL', 'Tableau', 'RapidMiner', 'Python (pandas, numpy, plotly, sklearn) ', 'Oracle BI', ];
+  const skills = ['Python (pandas, numpy, plotly, sklearn, pytorch)', 'Postgres, MS SQL, MySQL, MongoDB', 'Docker','Airflow','Kafka','Tableau'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,11 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Viacheslav, but you can call me Slava. I'm a data analyst with a goal-driven creative mindset and passion for learning and innovating. 
-									During my studies, I focused on Logistics and Supply Chain Analytics to master an ability to 
-									translate business requirements into technical solutions in the supply chain systems. 
-									After the academic courses and projects related to data mining and machine learning, I believe that the effective utilization of these technologies
-									is one of the most important features to eliminate information asymmetry and build highly effective, transparent, and sustainable relationships between all parties involved, from producers to customers.   
+              Hello! My name is Viacheslav, but you can call me Slava. I'm a data analyst with a goal-driven creative mindset and a passion for learning and innovating.   
             </p>
             <p>Here are a few technologies I've been working with:</p>
           </div>
