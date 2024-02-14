@@ -63,8 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I am a Data Analyst</h3>;
   const four = (
     <p>
-    I'm a Data Analyst specializing in analyzing logistics operations and complex Supply Chain networks and providing Business Intelligence for exceptional
-    decision-making and operational improvements.
+    I am an experienced Data Analyst, proficient in devising business strategies, implementing quality enhancement initiatives, and operational modifications by leveraging knowledge of business operations, analytical tools, and software for thorough analysis and interpretation of Big Data. 
     </p>
   );
   const five = (
