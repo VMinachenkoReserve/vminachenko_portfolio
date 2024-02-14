@@ -269,9 +269,6 @@ const Menu = () => {
             <a href="/resume.pdf" className="resume-link">
               Resume
             </a>
-            <a href="https://vminachenko-ru.netlify.app/" className="resume-link">
-              Русский язык
-            </a>
           </nav>
         </StyledSidebar> 
       </div>
