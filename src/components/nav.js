@@ -177,11 +177,6 @@ const Nav = ({ isHome }) => {
       Resume
     </a>
   );
-  const ResumeLinkRu = (
-    <a className="resume-button" href="https://vminachenko-ru.netlify.app/" target="_blank" rel="noopener noreferrer">
-      Русский язык
-    </a>
-  );
 
   return (
     <StyledHeader scrollDirection={scrollDirection} scrolledToTop={scrolledToTop}>
