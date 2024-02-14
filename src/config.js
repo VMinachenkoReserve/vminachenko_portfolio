@@ -10,6 +10,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/vminachenko',
     },
+    {
+      name: 'GitHub',
+      url: 'https://github.com/VMinachenko',
+    }
   ],
 
   navLinks: [
