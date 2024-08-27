@@ -7,7 +7,7 @@ ios: ''
 android: ''
 tech:
   - • SQL
-showInProjects: true
+showInProjects: false
 ---
 
 Created hierarchical database to keep track of tenant, lease, payment, apartment, repair, and inspection data for residential property management
