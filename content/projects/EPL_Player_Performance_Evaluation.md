@@ -1,14 +1,16 @@
 ---
-date: '2020-03-18'
-title: 'EPL Player Performance Evaluation'
+date: '2024-02'
+title: 'Educational RAG Chatbot for University in Barcelona'
 github: ''
 external: ''
 ios: ''
 android: ''
 tech:
-  - • Tableau
-  - • Python (pandas, beautifulsoup)
+  - • OpenAI API
+  - • Langchain
+  - • Qdrant
+  - • Chainlit
 showInProjects: true
 ---
 
-Conducted extensive analysis and visualization to measure EPL top scorers' performance efficiency in terms of their contribution and earned salary 
+Developed an educational Retrieval-Augmented Generation (RAG) chatbot for a university in Barcelona, utilizing the OpenAI API, Langchain, Qdrant, and Chainlit. The chatbot was designed to assist students with academic queries, leveraging a vast knowledge base to provide accurate and context-aware responses. Integrated the system with university resources, enabling personalized and efficient student support.
