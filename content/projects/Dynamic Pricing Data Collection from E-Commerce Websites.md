@@ -1,5 +1,5 @@
 ---
-date: '2023-04'
+date: '2023-04-01'
 title: 'Dynamic Pricing Data Collection from E-Commerce Websites'
 github: ''
 external: ''
