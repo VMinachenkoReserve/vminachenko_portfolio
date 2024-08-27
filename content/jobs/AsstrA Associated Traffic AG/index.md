@@ -6,11 +6,11 @@ range: 'November 2021 - Present'
 url: 'https://asstra.com/'
 ---
 
-- Engage in the development and preparation of analytical reports to enhance internal business workflows
-- Perform research, gathering, and analysis of marketing data related to the company's clientele
-- Gather and process extensive datasets from various sources, both internal and external, for utilization in Business Development
-- Execute specialized projects to gather and analyze data concerning the logistics services sector
-- Contribute to the creation of KPIs aimed at assessing the company's performance in relation to clients
+- Leading the development and automation of ETL processes using Python to efficiently extract, transform, and load large datasets from multiple internal and external sources
+- Conducting comprehensive Exploratory Data Analysis (EDA) to identify key insights and trends, driving data-driven decision-making in Business Development
+- Developing custom parsers in Python to streamline data collection and enhance the accuracy of marketing data related to the company's clientele
+- Utilizing Oracle BI to create and deliver analytical reports that improve internal business workflows and support the development of KPIs for assessing company performance
+- Successfully executing specialized projects that provide in-depth analysis of data in the logistics services sector, contributing to strategic business initiatives
 
 
 
