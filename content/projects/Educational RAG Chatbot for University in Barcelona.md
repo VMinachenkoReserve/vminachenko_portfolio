@@ -1,5 +1,5 @@
 ---
-date: '2024-02'
+date: '2024-02-01'
 title: 'Educational RAG Chatbot for University in Barcelona'
 github: ''
 external: ''
