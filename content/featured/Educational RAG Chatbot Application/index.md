@@ -1,6 +1,6 @@
 ---
 date: '5'
-title: '                  Educational RAG Chatbot Application'
+title: 'Educational RAG Chatbot Application'
 cover: './rag_chatbot.jpg'
 tech:
   - • OpenAI API
