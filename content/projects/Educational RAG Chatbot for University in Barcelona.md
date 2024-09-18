@@ -10,7 +10,7 @@ tech:
   - • Langchain
   - • Qdrant
   - • Chainlit
-showInProjects: true
+showInProjects: false
 ---
 
 Developed an educational Retrieval-Augmented Generation (RAG) chatbot for a university in Barcelona, utilizing the OpenAI API, Langchain, Qdrant, and Chainlit. The chatbot was designed to assist students with academic queries, leveraging a vast knowledge base to provide accurate and context-aware responses. Integrated the system with university resources, enabling personalized and efficient student support.
