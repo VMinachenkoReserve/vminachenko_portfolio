@@ -136,9 +136,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Viacheslav, but you can call me Slava. I'm a data analyst with a goal-driven creative mindset and a passion for learning and innovating.   
+              Hello! My name is Viacheslav, but you can call me Slava. I’m a data analyst with a creative and goal-driven mindset, passionate about learning and innovation. Currently, I work as a Marketing Analyst at AsstrA Associated Traffic AG, where I lead the development and automation of ETL processes using Python. My role involves conducting exploratory data analysis (EDA) to drive data-informed decision-making and developing custom parsers to enhance marketing data accuracy.
+    Over the past year, I’ve worked on many impactful projects, including a GitHub data parser for an Israel-based startup. This project involved collecting comprehensive data from major Python project repositories based on FastAPI and Django, which supported the creation of a user-friendly application for comparing projects and integrating them into users projects. Additionally, I developed a Retrieval-Augmented Generation (RAG) chatbot application for a university in Barcelona. This chatbot assists students with academic queries and provides valuable insights through a dashboard for educators, helping them tailor their teaching strategies.
+    Now, I am focusing on developing my skills and advancing my career as a product analyst, with future plans to transition into a machine learning engineer role. I am eager to apply my knowledge and passion to drive innovative solutions and data-driven decisions. Feel free to contact me!   
             </p>
-            <p>Here are a few technologies I've been working with:</p>
+            <p>Here are some things I've been working with:</p>
           </div>
 
           <ul className="skills-list">
