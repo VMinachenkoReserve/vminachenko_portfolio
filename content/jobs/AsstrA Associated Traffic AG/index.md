@@ -1,7 +1,7 @@
 ---
 date: '2021-11-14'
 title: 'Marketing Analyst'
-company: 'AsstrA Associated Traffic AG'
+company: 'AsstrA AG'
 range: 'November 2021 - Present'
 url: 'https://asstra.com/'
 ---
