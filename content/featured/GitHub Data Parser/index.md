@@ -1,6 +1,6 @@
 ---
 date: '4'
-title: '                  GitHub Data Parser'
+title: 'GitHub Data Parser'
 cover: './github_data_parser.jpg'
 tech:
   - • Python (aiohttp, asyncio)
