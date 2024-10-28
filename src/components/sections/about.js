@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python (pandas, numpy, plotly, sklearn, pytorch), SQL, YAML', 'Postgres, Clickhouse, MySQL, MongoDB', 'Docker','GIT','ORM, SOAP/REST Systems, Spark','AI-Model Chain Systems, Airflow, Tableau, Oracle BI'];
+  const skills = ['Python (pandas, numpy, plotly, sklearn, pytorch), SQL, YAML', 'Postgres, Clickhouse, MySQL, MongoDB', 'Docker','GIT','ORM, SOAP/REST Systems, Spark','AI-Model Chain Systems, Airflow, Tableau, Power BI, Oracle BI'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
