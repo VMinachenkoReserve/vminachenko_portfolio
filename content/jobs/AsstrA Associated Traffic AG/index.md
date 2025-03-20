@@ -2,7 +2,7 @@
 date: '2021-11-14'
 title: 'Marketing Analyst'
 company: 'AsstrA AG'
-range: 'November 2021 - Present'
+range: 'November 2021 - March 2025'
 url: 'https://asstra.com/'
 ---
 
