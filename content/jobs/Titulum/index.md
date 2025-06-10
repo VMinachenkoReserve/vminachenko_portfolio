@@ -2,7 +2,7 @@
 date: '2025-01-20'
 title: 'Senior Marketing Analyst'
 company: 'Titulum'
-range: 'January 2025 - Present'
+range: 'January 2025 - May 2025'
 ---
 
 - Conducting in-depth research and analysis to identify patterns, trends, and underlying factors affecting marketing performance, including user behavior analytics
