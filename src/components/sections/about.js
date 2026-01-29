@@ -136,9 +136,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hello! My name is Viacheslav, but you can call me Slava. I’m a data analyst with a creative and goal-driven mindset, passionate about learning and innovation. Most recently, I served as a Senior Marketing Analyst at Titulum, where I conduct in-depth research and analysis to identify patterns and trends affecting marketing performance. My role involved supporting and enhancing predictive modeling using Python, Airflow, and SQL databases, developing complex Tableau dashboards, and managing automated ETL processes to ensure efficient data handling. </p>
-    <p> Over the past year, I’ve worked on many impactful projects, including a GitHub data parser for an Israel-based startup or a Retrieval-Augmented Generation (RAG) chatbot application for an university in Barcelona.</p>
-    <p> Currently, I am focused on enhancing my skills and advancing my career in the field of big data and machine learning, with a strong emphasis on leveraging data-driven insights and innovative technologies to solve complex problems and drive impactful solutions. Feel free to contact me!   
+Hello! My name is Viacheslav, but you can call me Slava. I’m a data analyst with a creative and goal-driven mindset, passionate about learning and innovation. Currently, I work as a Marketing Analyst at DevSect.
+</p>
+<p> I am focused on enhancing my skills and advancing my career in the fields of big data, machine learning, and digital marketing, with a strong emphasis on marketing analytics, user acquisition, attribution modeling, and data-driven decision-making. I am particularly interested in leveraging advanced analytics, automation, and innovative technologies to optimize marketing performance, solve complex business problems, and drive impactful, scalable solutions. Feel free to contact me! </p>
             </p>
             <p>Here are some things I've been working with:</p>
           </div>
