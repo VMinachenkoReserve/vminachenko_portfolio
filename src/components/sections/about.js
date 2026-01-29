@@ -138,8 +138,9 @@ const About = () => {
             <p>
 Hello! My name is Viacheslav, but you can call me Slava. I’m a data analyst with a creative and goal-driven mindset, passionate about learning and innovation. Currently, I work as a Marketing Analyst at DevSect.
 </p>
-<p> I am focused on enhancing my skills and advancing my career in the fields of big data, machine learning, and digital marketing, with a strong emphasis on marketing analytics, user acquisition, attribution modeling, and data-driven decision-making. I am particularly interested in leveraging advanced analytics, automation, and innovative technologies to optimize marketing performance, solve complex business problems, and drive impactful, scalable solutions. Feel free to contact me! </p>
-            </p>
+<p> I am focused on enhancing my skills and advancing my career in the fields of big data, machine learning, and digital marketing, with a strong emphasis on marketing analytics, user acquisition, attribution modeling, and data-driven decision-making. I am particularly interested in leveraging advanced analytics, automation, and innovative technologies to optimize marketing performance, solve complex business problems, and drive impactful, scalable solutions. Feel free to contact me!
+     </p>
+           
             <p>Here are some things I've been working with:</p>
           </div>
 
